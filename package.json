@@ -14,8 +14,12 @@
 		"express": "^4.14.1",
 		"cors": "^2.8.1",
 		"body-parser": "^1.16.0",
-		"mongodb": "^2.2.22",
-		"helmet": "^3.4.0"
+		"mongodb": "^3.3.1",
+		"helmet": "^3.20.0",
+		"pug": "^2.0.3",
+		"passport": "^0.4.0",
+		"passport-local": "^1.0.0",
+		"express-session": "^1.16.1"
 	},
 	"engines": {
 		"node": "4.4.3"
